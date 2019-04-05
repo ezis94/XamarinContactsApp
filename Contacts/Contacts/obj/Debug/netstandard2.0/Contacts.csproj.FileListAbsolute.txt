@@ -7,7 +7,6 @@ C:\Users\edgrau\source\repos\Contacts\Contacts\Contacts\obj\Debug\netstandard2.0
 C:\Users\edgrau\source\repos\Contacts\Contacts\Contacts\obj\Debug\netstandard2.0\Contacts.csproj.CoreCompileInputs.cache
 C:\Users\edgrau\source\repos\Contacts\Contacts\Contacts\obj\Debug\netstandard2.0\Contacts.AssemblyInfoInputs.cache
 C:\Users\edgrau\source\repos\Contacts\Contacts\Contacts\obj\Debug\netstandard2.0\Contacts.AssemblyInfo.cs
-C:\Users\edgrau\source\repos\Contacts\Contacts\Contacts\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Users\edgrau\source\repos\Contacts\Contacts\Contacts\obj\Debug\netstandard2.0\Contacts.dll
 C:\Users\edgrau\source\repos\Contacts\Contacts\Contacts\obj\Debug\netstandard2.0\Contacts.pdb
 C:\Users\edgrau\source\repos\Contacts\Contacts\Contacts\obj\Debug\netstandard2.0\ContactPage.xaml.g.cs
