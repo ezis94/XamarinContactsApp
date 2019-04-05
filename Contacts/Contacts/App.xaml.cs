@@ -11,7 +11,7 @@ namespace Contacts
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new NavigationPage(new ContactPage());
         }
 
         protected override void OnStart()

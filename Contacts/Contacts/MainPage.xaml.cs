@@ -12,6 +12,12 @@ namespace Contacts
         public MainPage()
         {
             InitializeComponent();
+
+        }
+
+        private void SaveButton_Clicked(object sender, EventArgs e)
+        {
+
         }
     }
 }
