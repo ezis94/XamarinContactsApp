@@ -43,7 +43,6 @@ C:\Users\edgrau\source\repos\Contacts\Contacts\Contacts.iOS\bin\iPhoneSimulator\
 C:\Users\edgrau\source\repos\Contacts\Contacts\Contacts.iOS\bin\iPhoneSimulator\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
 C:\Users\edgrau\source\repos\Contacts\Contacts\Contacts.iOS\bin\iPhoneSimulator\Debug\Contacts.dll
 C:\Users\edgrau\source\repos\Contacts\Contacts\Contacts.iOS\bin\iPhoneSimulator\Debug\Contacts.pdb
-C:\Users\edgrau\source\repos\Contacts\Contacts\Contacts.iOS\bin\iPhoneSimulator\Debug\Contacts.dll.mdb
 C:\Users\edgrau\source\repos\Contacts\Contacts\Contacts.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
 C:\Users\edgrau\source\repos\Contacts\Contacts\Contacts.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
 C:\Users\edgrau\source\repos\Contacts\Contacts\Contacts.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
@@ -56,3 +55,9 @@ C:\Users\edgrau\source\repos\Contacts\Contacts\Contacts.iOS\obj\iPhoneSimulator\
 C:\Users\edgrau\source\repos\Contacts\Contacts\Contacts.iOS\obj\iPhoneSimulator\Debug\Contacts.iOS.csproj.CopyComplete
 C:\Users\edgrau\source\repos\Contacts\Contacts\Contacts.iOS\obj\iPhoneSimulator\Debug\Contacts.iOS.exe
 C:\Users\edgrau\source\repos\Contacts\Contacts\Contacts.iOS\obj\iPhoneSimulator\Debug\Contacts.iOS.pdb
+C:\Users\edgrau\source\repos\Contacts\Contacts\Contacts.iOS\bin\iPhoneSimulator\Debug\SQLite-net.dll
+C:\Users\edgrau\source\repos\Contacts\Contacts\Contacts.iOS\bin\iPhoneSimulator\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\edgrau\source\repos\Contacts\Contacts\Contacts.iOS\bin\iPhoneSimulator\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\edgrau\source\repos\Contacts\Contacts\Contacts.iOS\bin\iPhoneSimulator\Debug\SQLitePCLRaw.core.dll
+C:\Users\edgrau\source\repos\Contacts\Contacts\Contacts.iOS\bin\iPhoneSimulator\Debug\SQLitePCLRaw.provider.sqlite3.dll
+C:\Users\edgrau\source\repos\Contacts\Contacts\Contacts.iOS\bin\iPhoneSimulator\Debug\Contacts.dll.mdb

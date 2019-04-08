@@ -7,6 +7,7 @@ namespace Contacts
 {
     public partial class App : Application
     {
+        public static string FilePath;
         public App()
         {
             InitializeComponent();
@@ -14,6 +15,14 @@ namespace Contacts
             MainPage = new NavigationPage(new ContactPage());
         }
 
+        public App(string filePath)
+        {
+            InitializeComponent();
+
+            MainPage = new NavigationPage(new ContactPage());
+
+            FilePath = filePath;
+        }
         protected override void OnStart()
         {
             // Handle when your app starts
